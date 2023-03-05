@@ -1,4 +1,6 @@
 # Simple Markdown Previewer
+[Demo](https://simplemarkdowndemo.netlify.app/)
+
 This is a simple web app built with ReactJs, MarkedJs, and Vite that allows users to preview Markdown text in real-time as they type. This project was created as part of the requirements for the FreeCodeCamp Frontend Development Libraries certification.
 
 ## Features
