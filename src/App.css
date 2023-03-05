@@ -76,6 +76,7 @@ main{
   gap: 1.25rem;
 }
 
+
 #preview h1{
   font-size: 1.5rem;
 }
@@ -84,8 +85,8 @@ main{
   font-size: 1.5rem;
 }
 
-#preview  br{
-  margin: 1rem 0;
+#preview ul, #preview ol{
+  margin-left: 1.5rem;
 }
 
 #preview img{
