@@ -66,6 +66,10 @@ main{
   resize: none;
 }
 
+#editor:focus{
+  outline: none;
+}
+
 #preview{
   display: flex;
   flex-direction: column;
